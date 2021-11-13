@@ -48,8 +48,9 @@ Try, why not? Just for your Gram.
   1. Settings - Trackpad - Turn off Force Click
   2. Download OpenCore Configurator
   3. OpenCore Configurator - Tools - Mount EFI
-  4. EFI Folder - OC Folder - open config.plist with OpenCore Configurator
-  5. Go to PlatformInfo and generate serial number, other things and save & reboot!
+  4. Replace EFI w/ mine
+  5. EFI Folder - OC Folder - open config.plist with OpenCore Configurator
+  6. Go to PlatformInfo and generate serial number, other things and save & reboot!
 <br> That's it!
 
 ## AirDrop Dilemma
