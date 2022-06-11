@@ -19,23 +19,25 @@ Try, why not? Just for your Gram.
 
 ## What's Working?
 - [x] WiFi/Bluetooth (Intel)
-- [ ] Broadcom Cards (Not confirmed, will test if the card arrives)
 - [x] Touchpad
 - [x] Sleep
 - [x] Keyboard
-- [ ] Fn Keys (partially working)
 - [x] AirPlay / Handoff (handoff w/ iCloud account)
-- [ ] AirDrop (working on it]
 - [x] Boot Speed (perfect, 10~15 sec)
 - [x] USB Ports (working, but with slow connecting speed)
 - [x] Headphone
+- [x] Graphic Acceleration
+
+## Not working
+- [ ] Broadcom Cards (Not confirmed)
+- [ ] Fn Keys (partially working)
+- [ ] AirDrop (working on it)
 - [ ] SD Card / HDMI (Not tested, but will work)
 - [ ] Thunderbolt 3 (will fix soon if possible)
-- [x] Graphic Acceleration
 
 ## How to Install (Pt. 1 / BIOS Setting)
 - Enter BIOS with F2 (press like crazy person)
-  1. Enable Secret Settings
+  1. Enable Secret Settings (Ctrl + Alt + F7)
   2. BIOS - Main - Boot Features - ***CMS Support [NO]*** (IMPORTANT)
   3. BIOS - Advanced - Intel Advanced Menu - Power & Performance - CPU Power Management Control - ***CFG Lock [Disabled]*** (IMPORTANT)
 ## How to Install (Pt. 2 / Make Bootable Disk)
@@ -57,7 +59,6 @@ Try, why not? Just for your Gram.
 You have 2 options and one of these can enable AirDrop and another one can't (maybe, not confirmed)
 <br>First option: Get BCM94360CS2 with M.2 Adapter, attach on M.2 Slot (SSD) and sacrifice USB Port for BT and AirDrop
 <br>Second option (not confirmed): Get BCM94360CS2 with M.2 Adapter, attach on M.2 Slot (SSD) and just use Intel BT
-<br>I'll try second option as a test and confirmation.. Will update this soon if the card arrives
 
 ## Changelog
 
