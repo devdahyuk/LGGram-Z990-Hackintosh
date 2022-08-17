@@ -1,3 +1,10 @@
+## Support Me!
+If you would like to donate to me, then please consider to support!<br>
+[WeChat Pay | 微信支付](https://i.ibb.co/PjbKP9S/Wechat-IMG66.jpg) / [Alipay ｜ 支付宝](https://i.ibb.co/znQTWnQ/Wechat-IMG65.jpg)<br>
+I will try hard for my EFI, and will constantly update my EFI.<br>
+<br>Also there's a channel for this repo, TG @gram19_hackin for any updates soon!
+<br> Thank you for using my EFI!
+
 # LG Gram 13/15/17Z990 Hackintosh
 Try, why not? Just for your Gram.
 ## Settings
@@ -87,8 +94,3 @@ From @zirenxiao (LG-Gram-13Z990A-Hackintosh)
 
 Thanks to btwise @ Gitee (https://gitee.com/btwise/OpenCore_NO_ACPI)<br>
 was able to fix ACPI issues with Windows.
-
-## Support Me!
-Not related to money, but just share your screenshots and please leave the URL (my github repo) if you are sharing this EFI!
-<br>Also there's a channel for this repo, TG @gram19_hackin for any updates soon!
-<br> Thank you for using my EFI!
