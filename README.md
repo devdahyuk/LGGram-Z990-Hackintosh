@@ -17,7 +17,7 @@ Try, why not? Just for your Gram.
 
 ## Which macOS Version can be installed?
 - macOS 12.0.1 up to 12.2 (didn't test 12.5, if you want to, use latest version for monterey)
-- macOS Ventura Beta 5 (will be release, still testing due to some issues)
+- macOS Ventura Beta 5
 <br>Warning! Big Sur cannot be installed as this EFI was designed for Monterey
 
 ## What's Working?
@@ -69,7 +69,7 @@ You have 2 options and one of these can enable AirDrop and another one can't (ma
 
 * Stable
 * Some missing features, but still ok
-* Supports macOS Ventura Beta 5 (will be released, still testing)
+* Supports macOS Ventura Beta 5
 
 Fixed trackpad issue when dual booting. (Ex, Windows and macOS dual booting didn't work properly due to trackpad not working, but fixed)
 Used [OpenCore NO ACPI](https://gitee.com/btwise/OpenCore_NO_ACPI) by btwise at Gitee (compiled by myself, OC 0.8.3)
