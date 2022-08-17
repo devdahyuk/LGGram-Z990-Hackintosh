@@ -39,7 +39,7 @@ Try, why not? Just for your Gram.
 - [ ] Thunderbolt 3 (will fix soon if possible, working on)
 
 ## How to Install (Pt. 1 / BIOS Setting)
-- Enter BIOS with F2 (press like crazy person)
+- Enter BIOS with F2 (hold F2 until you see BIOS)
   1. Enable Secret Settings (Ctrl + Alt + F7)
   2. BIOS - Main - Boot Features - ***CMS Support [NO]*** (IMPORTANT)
   3. BIOS - Advanced - Intel Advanced Menu - Power & Performance - CPU Power Management Control - ***CFG Lock [Disabled]*** (IMPORTANT)
