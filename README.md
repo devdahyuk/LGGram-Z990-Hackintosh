@@ -12,9 +12,12 @@ Try, why not? Just for your Gram.
 | Wireless Card | Intel AC-9560|
 | Bluetooth Card | Intel AC-9560|
 | What can be replaced? | SSD, RAM (one more slot for each)|
+| OC Version | v0.8.3, forked version by btwise|
+
 
 ## Which macOS Version can be installed?
-- macOS 12.0.1
+- macOS 12.0.1 up to 12.2 (didn't test 12.5, if you want to, use latest version for monterey)
+- macOS Ventura Beta 5 (will be release, still testing due to some issues)
 <br>Warning! Big Sur cannot be installed as this EFI was designed for Monterey
 
 ## What's Working?
@@ -24,7 +27,7 @@ Try, why not? Just for your Gram.
 - [x] Keyboard
 - [x] AirPlay / Handoff (handoff w/ iCloud account)
 - [x] Boot Speed (perfect, 10~15 sec)
-- [x] USB Ports (working, but with slow connecting speed)
+- [x] USB Ports (working, but with slow connecting speed, maybe upto 10 sec)
 - [x] Headphone
 - [x] Graphic Acceleration
 
@@ -32,8 +35,8 @@ Try, why not? Just for your Gram.
 - [ ] Broadcom Cards (Not confirmed)
 - [ ] Fn Keys (partially working)
 - [ ] AirDrop (working on it)
-- [ ] SD Card / HDMI (Not tested, but will work)
-- [ ] Thunderbolt 3 (will fix soon if possible)
+- [ ] SD Card / HDMI (Not tested, ~~but will work~~ not working, still working on)
+- [ ] Thunderbolt 3 (will fix soon if possible, working on)
 
 ## How to Install (Pt. 1 / BIOS Setting)
 - Enter BIOS with F2 (press like crazy person)
@@ -50,7 +53,7 @@ Try, why not? Just for your Gram.
   1. Settings - Trackpad - Turn off Force Click
   2. Download OpenCore Configurator
   3. OpenCore Configurator - Tools - Mount EFI
-  4. Replace EFI w/ mine
+  4. Go to EFI volume and replace EFI w/ mine
   5. EFI Folder - OC Folder - open config.plist with OpenCore Configurator
   6. Go to PlatformInfo and generate serial number, other things and save & reboot!
 <br> That's it!
@@ -62,6 +65,16 @@ You have 2 options and one of these can enable AirDrop and another one can't (ma
 
 ## Changelog
 
+### 2022.08.16 (After 9 months!) Version 1
+
+* Stable
+* Some missing features, but still ok
+* Supports macOS Ventura Beta 5 (will be released, still testing)
+
+Fixed trackpad issue when dual booting. (Ex, Windows and macOS dual booting didn't work properly due to trackpad not working, but fixed)
+Used [OpenCore NO ACPI](https://gitee.com/btwise/OpenCore_NO_ACPI) by btwise at Gitee (compiled by myself, OC 0.8.3)
+
+
 ### 2021.11.12 Pre-release V0.1 (Stable, no AirDrop)
 
 * Initial Release
@@ -71,6 +84,9 @@ You have 2 options and one of these can enable AirDrop and another one can't (ma
 ## References
 From @zirenxiao (LG-Gram-13Z990A-Hackintosh)
 <br>Thx to @zirenxiao for providing knowledge to me also BIOS Settings Guide and stable EFI for Big Sur
+
+Thanks to btwise @ Gitee (https://gitee.com/btwise/OpenCore_NO_ACPI)<br>
+was able to fix ACPI issues with Windows.
 
 ## Support Me!
 Not related to money, but just share your screenshots and please leave the URL (my github repo) if you are sharing this EFI!
