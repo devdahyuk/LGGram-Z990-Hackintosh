@@ -5,6 +5,10 @@ I will try hard for my EFI, and will constantly update my EFI.<br>
 <br>Also there's a channel for this repo, TG @gram19_hackin for any updates soon!
 <br> Thank you for using my EFI!
 
+# Wiki
+https://github.com/devdahyuk/LGGram-Z990-Hackintosh/wiki<br>
+Currently editing the wiki, I'm trying to add every step that you need to do.
+
 # LG Gram 13/15/17Z990 Hackintosh
 Try, why not? Just for your Gram.
 ## Settings
@@ -94,3 +98,5 @@ From @zirenxiao (LG-Gram-13Z990A-Hackintosh)
 
 Thanks to btwise @ Gitee (https://gitee.com/btwise/OpenCore_NO_ACPI)<br>
 was able to fix ACPI issues with Windows.
+
+Also thanks to whole OpenCore team, which made this possible.
