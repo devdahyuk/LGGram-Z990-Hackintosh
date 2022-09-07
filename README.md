@@ -27,7 +27,7 @@ Try, why not? Just for your Gram.
 
 
 ## Which macOS Version can be installed?
-- macOS 12.0.1 up to 12.2 (didn't test 12.5, if you want to, use latest version for monterey)
+- macOS 12.0.1 up to 12.5
 - macOS Ventura Beta 5
 <br>Warning! Big Sur cannot be installed as this EFI was designed for Monterey
 
