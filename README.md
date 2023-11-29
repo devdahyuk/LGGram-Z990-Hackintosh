@@ -1,10 +1,3 @@
-## Support Me!
-If you would like to donate to me, then please consider to support!<br>
-[WeChat Pay | 微信支付](https://i.ibb.co/PjbKP9S/Wechat-IMG66.jpg) / [Alipay ｜ 支付宝](https://i.ibb.co/znQTWnQ/Wechat-IMG65.jpg)<br>
-I will try hard for my EFI, and will constantly update my EFI.<br>
-<br>Also there's a channel for this repo, TG @gram19_hackin for any updates soon!
-<br> Thank you for using my EFI!
-
 # Wiki
 https://github.com/devdahyuk/LGGram-Z990-Hackintosh/wiki<br>
 Currently editing the wiki, I'm trying to add every step that you need to do.
